@@ -1,1 +1,1 @@
-# soundslike
+This is the code of a little memogame you can build on and use for your own projects. The memogame deals with audio and video. Unfortunately some external libraries are not included because of copyright-issues.
